@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=430&lines=Hi+%F0%9F%91%8B%2C+I'm+T%C3%B4+C%C3%B4ng+Qu%C3%A2n+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=430&lines=Hi+%F0%9F%91%8B%2C+I'm+Thuan+Tran+Van+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">My goal is to become a Software Development/DevOps/Cloud Engineer.</p>
@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuantv-uit&show_icons=true&theme=radical&count_private=true" alt="huantv-uit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huantv-uit&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thuantv-uit&show_icons=true&theme=radical&count_private=true" alt="thuantv-uit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuantv-uit&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 🏆 Top Repositories
@@ -75,5 +75,3 @@
 </a>
 
 </div>
-
-</p>
