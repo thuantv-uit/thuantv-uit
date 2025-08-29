@@ -28,32 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuantv-uit&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
-### 🏆 Top Repositories
-
-<table align="center">
-  <tr>
-    <td>
-      Name repo
-    </td>
-    <td>
-      Name repo
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Name repo
-    </td>
-    <td>
-      Name repo
-    </td>
-    <td>
-      Name repo
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📬 Contact Me
 
 <div align="left">
@@ -63,7 +37,7 @@
 </a>
 <br/>
 
-<a href="https://www.linkedin.com/in/thuận-trần-văn-6a41a333b/" target="_blank" style="text-decoration: none; display: inline-block; margin: 2px;">
+<a href="https://www.linkedin.com/in/thuan-tran-van-6a41a333b/" target="_blank" style="text-decoration: none; display: inline-block; margin: 2px;">
   <img src="https://img.icons8.com/color/24/linkedin.png" alt="LinkedIn" />
   <strong> LinkedIn: Thuan Tran Van - LinkedIn </strong>
 </a>
