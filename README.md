@@ -70,9 +70,9 @@
 ## 🔗 Connect With Me
 
 <p>
-  🔵 <a href="https://www.facebook.com/tran.thuan.225020">Facebook</a>  
+  <!-- 🔵 <a href="https://www.facebook.com/tran.thuan.225020">Facebook</a>   -->
   💼 <a href="https://www.linkedin.com/in/thuan-tran-van-6a41a333b/">LinkedIn</a>  
-  ✉️ <a href="mailto:22521448@gm.uit.edu.vn">Email</a>
+  ✉️ <a href="mailto:thuantranuit2004@gmail.com">Email</a>
 </p>
 
 ---
