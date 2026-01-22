@@ -1,51 +1,80 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=430&lines=I'm+Thuan+Tran+Van" />
+  👋 Hi, I'm <strong>Thuan Tran Van</strong>
 </h1>
 
-<p align="center">My goal is to become a Software Development/DevOps/Cloud Engineer.</p>
+<p align="center">
+  💻 Software Engineer &nbsp; | &nbsp; ⚙️ DevOps Engineer &nbsp; | &nbsp; ☁️ Cloud Engineer
+</p>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thuantv-uit&label=Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/thuantv-uit?label=Followers&style=flat"/>
+</p> -->
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🧭 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HCL-FF69B4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+🎓 Student &nbsp; | &nbsp; 🚀 System-oriented mindset  
+⚙️ Love automation, infrastructure & scalable systems  
+☁️ Focused on Cloud, DevOps & Microservices  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🧠 System & Web
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Currently Building
+
+🧱 Microservices Web System  
+⚙️ Reusable CI/CD Pipeline  
+☁️ AWS Infrastructure (Terraform)  
+🔐 DevSecOps (SonarQube, Trivy)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuantv-uit&show_icons=true&theme=radical&count_private=true" alt="thuantv-uit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuantv-uit&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thuantv-uit&show_icons=true&theme=transparent" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuantv-uit&layout=compact&theme=transparent" height="140"/> -->
 </p>
 
-### 📬 Contact Me
+---
 
-<div align="left">
-<a href="https://www.facebook.com/tran.thuan.225020" target="_blank" style="text-decoration: none; display: inline-block; margin: 2px;">
-  <img src="https://img.icons8.com/color/24/facebook.png" alt="Facebook" />
-  <strong> Facebook: Thuan Tran Van - Facebook </strong>
-</a>
-<br/>
+## 🔗 Connect With Me
 
-<a href="https://www.linkedin.com/in/thuan-tran-van-6a41a333b/" target="_blank" style="text-decoration: none; display: inline-block; margin: 2px;">
-  <img src="https://img.icons8.com/color/24/linkedin.png" alt="LinkedIn" />
-  <strong> LinkedIn: Thuan Tran Van - LinkedIn </strong>
-</a>
-<br/>
+<p>
+  🔵 <a href="https://www.facebook.com/tran.thuan.225020">Facebook</a>  
+  💼 <a href="https://www.linkedin.com/in/thuan-tran-van-6a41a333b/">LinkedIn</a>  
+  ✉️ <a href="mailto:22521448@gm.uit.edu.vn">Email</a>
+</p>
 
-<a href="mailto:22521448@gm.uit.edu.vn" target="_blank" style="text-decoration: none; display: inline-block; margin: 2px;">
-  <img src="https://img.icons8.com/color/24/gmail.png" alt="Email" />
-  <strong> Email: 22521448@gm.uit.edu.vn </strong>
-</a>
+---
 
-</div>
+<sub>⚙️ Build systems. ☁️ Automate everything. 🚀 Ship with confidence.</sub>
